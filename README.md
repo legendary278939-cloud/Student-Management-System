@@ -12,6 +12,12 @@ An intuitive, feature-rich desktop application built with Python and Tkinter for
 * Full transaction CRUD capabilities with edit, delete, and list clear functions
 * Standalone executable compatibility using reflection and path management
 
+## Screenshots  
+
+| Light Mode | Dark Mode |
+| :--: | :--: |
+| ![Light Mode](./student-management-light-mode.png) | ![Dark Mode](./student-management-dark-mode.png) |
+
 ## Technologies Used
 
 * Python 3.x
